@@ -5,13 +5,9 @@ A responsive personal task management application built with React, TypeScript, 
 
 This project was built as a front-end assessment, focusing on clean code, modern React practices, and a great user experience.
 
-[![Light Mode Screenshot](https://i.imgur.com/your-light-mode-screenshot.png "Light Mode")](https://your-live-demo-url)
-_Light Mode & Dark Mode UI_
-[![Dark Mode Screenshot](https://i.imgur.com/your-dark-mode-screenshot.png "Dark Mode")](https://your-live-demo-url)
-
 ## ✨ Live Demo
 
-
+https://fitness-tracker-dlpyk3bs3-amit-mondals-projects.vercel.app
 
 ---
 
