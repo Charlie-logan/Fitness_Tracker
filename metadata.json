@@ -1,0 +1,5 @@
+{
+  "name": "Personal Task Tracker",
+  "description": "A responsive personal task management application built with React and Tailwind CSS. It allows users to log in, create, edit, delete, filter, and search for tasks, which are persisted in the browser's local storage. Includes features like priority levels, due dates, and a dark mode toggle.",
+  "requestFramePermissions": []
+}
